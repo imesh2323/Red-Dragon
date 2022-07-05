@@ -19,7 +19,7 @@ global.APIKeys = {
 
 //customize settings\\
 
-global.alivemsg = `ඔක දාන්න එපා අයියො මං ඉන්නවා😊` //Costomize Alive Message (type your message in `` )
+global.alivemsg = `alive දාන්න එපා අයියො මං ඉන්නවා😊` //Costomize Alive Message (type your message in `` )
 
 global.owner = ['+94702728500'] //Owner number in aive msg
 global.premium = ['94702728500'] //Owner Number info
@@ -33,7 +33,7 @@ global.btnurl = 'h😊😥' //Change Your Button's URL
 
 global.region = 'India, South India, Kerala' //Country Region
 
-global.packname = '☬RED༒DRAGON࿐' //Bot Pacage Name
+global.packname = '☬bot සුකිරි බොලේ࿐' //Bot Pacage Name
 global.author = '😎 imesh' //Author Name
 global.prefa = ['','!','.','😂','❤️','💠'] //Command Prefix eg:(.alive ,alive 😂alive)
 global.sessionName = 'session' //Session Name!
@@ -42,7 +42,7 @@ global.dragonemoji = '🧩' // Menu emoji
 global.footer = '©_Kumuthu.' //In list menu
 global.chatbotpre = 'true'  // Chat bot true/false
 
-global.ig = 'https://github.com/prabhasha2006' //Github Account!
+global.ig = '' //Github Account!
 
 global.mess = { // COSTOMIZE WITH YOUR LANGUAGE
 	
